@@ -7,6 +7,11 @@ As the **team lead**, I was responsible for organizing our workflow, setting dea
 
 > **Note**: The dataset used was simulated and intended for educational purposes only.
 
+## 🧰 Tools Used
+- Tableau (Data visualization)
+- Excel (Data analysis)
+- PowerPoint (Presentation design)
+
 ## 💡 Key Contributions
 - Identified bottom-performing product categories using Tableau dashboards
 - Co-wrote an RFP focused on increasing sales of stagnant product lines
