@@ -3,7 +3,7 @@
 ## 🔍 Overview
 This project involved evaluating sales data for the fictional company **Northwind Traders** to identify underperforming products, generate business insights, and develop strategic recommendations.
 
-As the **team lead**, I was responsible for organizing our workflow, setting deadlines, and ensuring consistent communication across our group. I also contributed directly to the sales analysis and co-authored a product performance RFP focused on underperforming product categories. Our work culminated in a formal presentation, which you can [watch here](https://www.youtube.com/watch?v=YOURVIDEOID).
+As the **team lead**, I was responsible for organizing our workflow, setting deadlines, and ensuring consistent communication across our group. I also contributed directly to the sales analysis and co-authored a product performance RFP focused on underperforming product categories. Our work culminated in a formal presentation, which you can [watch here](https://www.youtube.com/watch?v=Lgqg3GZ4gBc).
 
 > **Note**: The dataset used was simulated and intended for educational purposes only.
 
