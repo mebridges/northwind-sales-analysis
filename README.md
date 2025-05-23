@@ -14,7 +14,7 @@ As the **team lead**, I was responsible for organizing our workflow, setting dea
 - Presented findings and recommendations in a 6-minute video pitch
 
 ## 🎥 Final Presentation
-- [Watch on YouTube](https://www.youtube.com/watch?v=Lgqg3GZ4gBc)
+[Watch on YouTube](https://www.youtube.com/watch?v=Lgqg3GZ4gBc)
   
 ## 📊 My Slides
 
