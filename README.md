@@ -25,11 +25,11 @@ As the **team lead**, I was responsible for organizing our workflow, setting dea
 
 Here are the presentation slides I personally created and contributed to:
 
-### Slide: Revenue Trends 
-![Revenue Trends](RevenueTrends.png)
+### Revenue Trends Slide
+[![Revenue Trends](RevenueTrends.png)](RevenueTrends.png)
 
-### Slide: Purchasing Habits
-![Consumer Purchashing Habits](PurchasingHabits.png)
+### Purchasing Habits Slide
+[![Consumer Purchashing Habits](PurchasingHabits.png)](PurchasingHabits.png)
 
 
 ## 📎 Project Materials
