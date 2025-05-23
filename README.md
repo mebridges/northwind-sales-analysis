@@ -16,7 +16,7 @@ As the **team lead**, I was responsible for organizing our workflow, setting dea
 ## 🎥 Final Presentation
 - [Watch on YouTube](https://www.youtube.com/watch?v=Lgqg3GZ4gBc)
 > My slides:
-> (
+> (Screenshot 2025-05-23 141002.png)(Screenshot 2025-05-23 141004.png)
 ## 📎 Project Materials
 - 📄 [Final Report](FinalAnalysis.pdf)
 - 📊 [Raw Dataset](RawNorthwindTradersData.xlsx)
