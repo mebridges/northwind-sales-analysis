@@ -38,4 +38,4 @@ Here are the presentation slides I personally created and contributed to:
 
 
 ## 📫 About Me
-Hi, I’m Mary Bridges, a Business Data Analytics student with a passion for turning raw data into meaningful insights. I thrive at the intersection of data, design, and storytelling—and I love working on projects that inform strategy and create impact.
+Hi, I’m Mary Bridges, a Business Data Analytics student with a passion for turning raw data into meaningful insights. I thrive at the intersection of data, design, & storytelling, and I love working on projects that inform strategy and create impact.
