@@ -17,7 +17,9 @@ As the **team lead**, I was responsible for organizing our workflow, setting dea
 - [Watch on YouTube](https://www.youtube.com/watch?v=Lgqg3GZ4gBc)
 
 ## 📎 Project Materials
-- 📄 Final Report: [View Google Doc](https://docs.google.com/document/d/18vQNzeSeUgyEUQXapzWp0ept66f_SR1_tpGr6DkfF90/edit?usp=sharing)
+- 📄 [Final Report](project-materials/FinalAnalysis.pdf)
+- 📊 [Raw Dataset](project-materials/RawNorthwindTradersData.xlsx)
+
 
 ## 📫 About Me
 Hi, I’m Mary Bridges—a Business Data Analytics student passionate about storytelling through data. I love working on data projects that combine insight, design, and impact.
