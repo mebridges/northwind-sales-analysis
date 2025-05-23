@@ -23,7 +23,7 @@ Here are the presentation slides I personally created and contributed to:
 ### Slide: Revenue Trends 
 ![Revenue Trends](RevenueTrends.png)
 
-### Slide: Strategic Recommendations
+### Slide: Purchasing Habits
 ![Consumer Purchashing Habits](PurchasingHabits.png)
 
 
