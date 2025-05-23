@@ -17,8 +17,8 @@ As the **team lead**, I was responsible for organizing our workflow, setting dea
 - [Watch on YouTube](https://www.youtube.com/watch?v=Lgqg3GZ4gBc)
 
 ## 📎 Project Materials
-- 📄 [Final Report](project-materials/FinalAnalysis.pdf)
-- 📊 [Raw Dataset](project-materials/RawNorthwindTradersData.xlsx)
+- 📄 [Final Report](data/FinalAnalysis.pdf)
+- 📊 [Raw Dataset](data/RawNorthwindTradersData.xlsx)
 
 
 ## 📫 About Me
