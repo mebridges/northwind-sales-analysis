@@ -20,8 +20,8 @@ As the **team lead**, I was responsible for organizing our workflow, setting dea
 
 Here are the presentation slides I personally created and contributed to:
 
-### Slide: Product Category Analysis
-![Product Category Analysis](slide1-product-analysis.png)
+### Slide: Revenue Trends 
+![Revenue Trends](RevenueTrends.png)
 
 ### Slide: Strategic Recommendations
 ![Strategic Recommendations](slide2-recommendations.png)
