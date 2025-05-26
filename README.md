@@ -33,7 +33,7 @@ Here are the presentation slides I personally created and contributed to:
 
 
 ## 📎 Project Materials
-- 📄 [Final Report](FinalAnalysis.pdf)
+- 📄 [Final Analysis and RFP](FinalAnalysis.pdf)
 - 📊 [Raw Dataset](RawNorthwindTradersData.xlsx)
 
 
